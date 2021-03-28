@@ -3,7 +3,7 @@
 
 I am a frontend web developer from Taunggyi, Myanmar, I love coding & music. 
 
-Skills: VUE JS / REACT / Node.JS / HTML / CSS
+Skills: VUE / REACT / Node.JS / PHP / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
