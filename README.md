@@ -3,8 +3,7 @@
 
 I am a frontend web developer from Taunggyi, Myanmar, I love coding & music. 
 
-Skills: VUE / REACT / Node.JS / PHP / HTML / CSS
-
+Skills: VUE / REACT / Node.JS / LARAVEL / GRAPHQL 
 -----------
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldaug&show_icons=true)  
