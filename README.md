@@ -1,6 +1,7 @@
 <img src="https://github.com/ronaldaug/ronaldaug/raw/main/working.gif" width="200">
 
-Full stack developer | entrepreneur | reative Enthusiast 
+Full stack developer | Entrepreneur | Reative Enthusiast 
+
 Powered by coffee, music, and a passion for innovation
 
 -----------
