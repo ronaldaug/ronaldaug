@@ -1,7 +1,7 @@
-### Hi there 👋
 <img src="https://github.com/ronaldaug/ronaldaug/raw/main/working.gif" width="200">
 
-I am a frontend web developer from Taunggyi, Myanmar, I love coding & music. 
+Full stack developer | entrepreneur | reative Enthusiast 
+Powered by coffee, music, and a passion for innovation
 
 -----------
 
