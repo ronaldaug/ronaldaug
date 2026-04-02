@@ -41,6 +41,7 @@ Powered by coffee, music, and a passion for innovation
 ---
 
 ### 🚀 Currently Working On
-* **[Chatty Form](https://ronaldaug.com)** - A conversational form builder.
+* **[Chatty Form](https://chattyform.com)** - A conversational form builder.
+* **[August RAG](https://ai.augusthost.com)** - RAG chat application.
 * Integrating AI agents into local development workflows.
 * Optimizing CI/CD pipelines for WordPress and React applications.
